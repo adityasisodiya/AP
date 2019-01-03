@@ -1,0 +1,4 @@
+Dependencies for Project 'switch_inter', Target 'Target 1': (DO NOT MODIFY !)
+F (.\Startup.s)(0x4A02A570)(--cpu ARM7TDMI --pd "__EVAL SETA 1" -g --apcs=interwork -I "C:\Keil4\ARM\INC" -I "C:\Keil4\ARM\INC\Philips" --list "Startup.lst" --xref -o "Startup.o")
+F (.\switch_inter.c)(0x5C2C5915)(-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork -I "C:\Keil4\ARM\INC" -I "C:\Keil4\ARM\INC\Philips" -o "switch_inter.o" --omf_browse "switch_inter.crf" --depend "switch_inter.d")
+I (C:\Keil4\ARM\INC\Philips\LPC214x.h)(0x4A02A636)

@@ -1,0 +1,4 @@
+--cpu ARM7TDMI "startup.o" "switch_inter.o" --strict --scatter "switch_inter.sct" 
+--autoat --summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\switch_inter.map" -o "switch_inter.axf"

@@ -1,0 +1,1 @@
+-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork -I "C:\Keil4\ARM\INC" -I "C:\Keil4\ARM\INC\Philips" -o "switch_inter.o" --omf_browse "switch_inter.crf" --depend "switch_inter.d" "switch_inter.c"
